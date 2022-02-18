@@ -1,0 +1,197 @@
+{
+	"explosives": {
+		"icon": ":bomb:",
+		"price": 5000,
+		"info": "Makes an explosion"
+	},
+	"lock": {
+		"icon": ":lock:",
+		"price": 10000,
+		"info": "Locks your wallet"
+	},
+	"lockpicker": {
+		"icon": ":safety_pin:",
+		"price": 10000,
+		"info": "Picks locks"
+	},
+	"ancient scroll": {
+		"icon": ":scroll:",
+		"price": 100000,
+		"info": "Its ancient.. must be valiable"
+	},
+	"mystery package": {
+		"icon": ":package:",
+		"price": 500,
+		"info": "Could either rip you off or make you rich"
+	},
+	"laptop": {
+		"icon": ":computer:",
+		"price": 10000,
+		"info": "You look like a hacker"
+	},
+	"flashlight": {
+		"icon": ":flashlight:",
+		"price": 500,
+		"info": "Can be useful for dark places"
+	},
+	"charger": {
+		"icon": ":electric_plug:",
+		"price": 1000,
+		"info": "Charges your laptop"
+	},
+	"magnet": {
+		"icon": ":magnet:",
+		"price": 15000,
+		"info": "Attracts coins"
+	},
+	"cigarrete": {
+		"icon": ":smoking:",
+		"price": 1,
+		"info": "Super healthy"
+	},
+	"mouse trap": {
+		"icon": ":mouse_trap:",
+		"price": 1000,
+		"info": "Chatches rats"
+	},
+	"antibiotics": {
+		"icon": ":pill:",
+		"price": 500,
+		"info": "Fixes u"
+	},
+	"books": {
+		"icon": ":books:",
+		"price": 2500,
+		"info": "You probably need it"
+	},
+	"printer": {
+		"icon": ":printer:",
+		"price": 25000,
+		"info": "They say it doesn't print :coin: :no_mouth:"
+	},
+	"map": {
+		"icon": ":map:",
+		"price": 10000,
+		"info": "Shows you the world"
+	},
+	"helicopter": {
+		"icon": ":helicopter:",
+		"price": 750000,
+		"info": "Makes travelling faster"
+	},
+	"rocket": {
+		"icon": ":rocket:",
+		"price": 10000000,
+		"info": "They say the moon is made of cheese... prove them wrong!"
+	},
+	"car": {
+		"icon": ":red_car:",
+		"price": 100000,
+		"info": "Goes *vroom* *vroom*!"
+	},
+	"taxi": {
+		"icon": ":taxi:",
+		"price": 150000,
+		"info": "Ever wanted to work as a taxi?"
+	},
+	"bycicle": {
+		"icon": ":bike:",
+		"price": 25000,
+		"info": "Not as fast but does the job"
+	},
+	"racing car": {
+		"icon": ":racing_car:",
+		"price": 250000,
+		"info": "Racers get paid alot you know"
+	},
+	"dancing shoes": {
+		"icon": ":ballet_shoes:",
+		"price": 5000,
+		"info": "I can't dance, can you?"
+	},
+	"pallete": {
+		"icon": ":art:",
+		"price": 5000,
+		"info": "Every artist needs a bob ross pallete"
+	},
+	"controller": {
+		"icon": ":video_game:",
+		"price": 5000,
+		"info": "Being a gamer is a job too!"
+	},
+	"parachute": {
+		"icon": ":parachute:",
+		"price": 10000,
+		"info": "Could save your life someday"
+	},
+	"ball": {
+		"icon": ":soccer:",
+		"price": 5000,
+		"info": "Athliets are overrated"
+	},
+	"boxing gloves": {
+		"icon": ":boxing_glove:",
+		"price": 5000,
+		"info": "Boxers are tough!"
+	},
+	"diving gear": {
+		"icon": ":diving_mask:",
+		"price": 15000,
+		"info": "They say the ocean contains hidden treassures, does it?"
+	},
+	"beer": {
+		"icon": ":beer:",
+		"price": 10,
+		"info": "iM nOt DrUnK¡"
+	},
+	"milk": {
+		"icon": ":milk:",
+		"price": 10,
+		"info": "milk"
+	},
+	"donut": {
+		"icon": ":doughnut:",
+		"price": 10,
+		"info": "A delicious circle of dough"
+	},
+	"fortune cookie": {
+		"icon": ":fortune_cookie:",
+		"price": 10,
+		"info": "It has a paper inside"
+	},
+	"glasses": {
+		"icon": ":eyeglasses:",
+		"price": 10000,
+		"info": "Can be used as a disguise"
+	},
+	"gloves": {
+		"icon": ":gloves:",
+		"price": 5000,
+		"info": "You don't want to leave fingerprints do u?"
+	},
+	"sandals": {
+		"icon": ":thong_sandal:",
+		"price": 500,
+		"info": "Moms favourite weapon"
+	},
+	"bone": {
+		"icon": ":bone:",
+		"price": 100,
+		"info": "Dogs favourite treat"
+	},
+	"metal hand": {
+		"icon": ":mechanical_arm:",
+		"price": 50000,
+		"info": "Can lift up to 500 tons!"
+	},
+	"camera": {
+		"icon": ":camera:",
+		"price": 5000,
+		"info": "Record shit to post it"
+	},
+	"brain": {
+		"icon": ":brain:",
+		"price": 1000000,
+		"info": "Do you see how valiable it is now?"
+	}
+}
